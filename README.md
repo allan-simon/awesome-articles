@@ -15,3 +15,9 @@ list of blog articles I keep refering to my young padawans (including myself)
 * https://hackernoon.com/the-effective-tech-lead-is-a-100x-engineer-fe49c0372a63
 * https://thefnublog.com/2018/07/31/mieux-quun-plan-de-transformation-dorganisation-une-carte-detat-major/
 * https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/
+
+## About security 
+
+* https://glebbahmutov.com/blog/disable-inline-javascript-for-security/
+* http://www.redotheweb.com/2015/11/09/api-security.html
+* https://github.com/trimstray/nginx-quick-reference
