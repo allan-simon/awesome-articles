@@ -19,5 +19,6 @@ list of blog articles I keep refering to my young padawans (including myself)
 ## About security 
 
 * https://glebbahmutov.com/blog/disable-inline-javascript-for-security/
+* https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5?gi=b918a72bc2d2
 * http://www.redotheweb.com/2015/11/09/api-security.html
 * https://github.com/trimstray/nginx-quick-reference
