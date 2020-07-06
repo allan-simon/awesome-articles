@@ -4,8 +4,9 @@ list of blog articles I keep refering to my young padawans (including myself)
 ## All times bests
 
 * https://www.silasreinagel.com/blog/2018/10/30/indirection-is-not-abstraction/
-* https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to#_=_
-* https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8 
+* https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to#_=_ 
+* https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8 : "the business is always right" and how to deal with that as a engineer
+* https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction : explains how you end up with the wrong abstraction, and how to rewrite correctly such code when you inherit it
 
 
 ### Worth a read
