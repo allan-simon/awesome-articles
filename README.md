@@ -7,7 +7,7 @@ list of blog articles I keep refering to my young padawans (including myself)
 * https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to#_=_ 
 * https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8 : "the business is always right" and how to deal with that as a engineer
 * https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction : explains how you end up with the wrong abstraction, and how to rewrite correctly such code when you inherit it
-
+* https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/ How one gets trapped in a "local maxima" and how to continue improving
 
 ### Worth a read
 
